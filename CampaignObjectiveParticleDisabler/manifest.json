@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "CampaignObjectiveParticleDisabler",
+  "name": "CampaignObjectiveParticleDisabler",
+  "author": "PulseLane",
+  "version": "1.0.0",
+  "description": "Removes the particles that show up when you meet the requirement on an objective",
+  "gameVersion": "1.11.0",
+  "dependsOn": {
+
+  },
+  "features": []
+}
