@@ -3,9 +3,9 @@
   "id": "CampaignObjectiveParticleDisabler",
   "name": "CampaignObjectiveParticleDisabler",
   "author": "PulseLane",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Removes the particles that show up when you meet the requirement on an objective",
-  "gameVersion": "1.13.2",
+  "gameVersion": "1.13.4",
   "dependsOn": {
     "BSIPA" : "^4.1.4"
   },
